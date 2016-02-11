@@ -1,3 +1,3 @@
 # Hello World
 
-Just for practice for git
+Testing out Git
